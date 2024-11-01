@@ -1,4 +1,5 @@
 # HR-Analysis-Report
+PowerBI project analyzes
 
 ## The Situation:
 Help an organization to improve employee retention (reduce attrition) by creating a HR Analytics Dashboard
