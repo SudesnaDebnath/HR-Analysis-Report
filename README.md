@@ -39,7 +39,7 @@ Here We have only one Table(one csv file)
 so No need to build a relational data model 
 No need to worry about the relationship between tables
 
-#### Design an Interactive Dashboard to Visualize the Data
+#### 3. Design an Interactive Dashboard to Visualize the Data
 Use Tables, KPI, Cards, Bar Charts, Area Charts, Donut Charts,... etc. Filtering, formating, and design to get better view for End User. Also use Interractions to customize how filters applied to one visual impact other visuals on the page Use Bookmarks capture the current state of a page, and allow users to return to that state using report actions. and also create Mobile Layout Create a navigation bar which can interactive with other pages, and so on.
 
 **Target:** Easy to understand for End-User
